@@ -1,0 +1,8 @@
+api-version: 1.12
+name: Largage
+version: 0.0.1
+author: Kitsoko
+main: fr.kitsoko.largage.Largage
+commands:
+  start:
+    permission: eat.use
